@@ -1,14 +1,14 @@
 # **NUMBER OF DIGITS**
 
-# Information
+## INFORMATION
 
 * **This program returns the sum of the digits of the entered number.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **a**, **b** and **c** are defined with int.
 
@@ -18,7 +18,7 @@
 
 <br />
 
-# Codes
+## CODES
 
 ```Java
 
@@ -66,13 +66,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/NumberofDigits.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
